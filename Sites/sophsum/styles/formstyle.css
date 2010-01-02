@@ -1,0 +1,27 @@
+form {
+	border-top:	3px solid #A89048;
+	/*border:	1px dashed #A89048;*/
+}
+
+p.label {
+	background-color:	#EBE2BF;
+	color:				black;
+	margin: 0px;
+	padding-left:	5px;
+	padding-right:	5px;
+	padding-top:	8px;
+	padding-bottom:	3px;
+	font-weight:	bold;
+}
+
+div.field {
+	background-color:	#A89048;
+	padding-left:	5px;
+	padding-top:	12px;
+	padding-bottom:	12px;
+	border-bottom:	1px solid #4E3720;
+}
+
+td.label {
+	text-align:	right;
+}
